@@ -1,0 +1,5 @@
+
+esquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ψε΄΅ÿÿÿÿÿ
+csquid:MaximumInheritanceDepth"<This class has 8 parents which is greater than 5 authorized.(υµσο
+S"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(ψε΄΅ÿÿÿÿÿ
+Bsquid:S1185"(Remove this method to simply inherit it.(Ϋ½Κ€ώÿÿÿÿ
